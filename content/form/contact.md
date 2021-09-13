@@ -4,7 +4,7 @@ description: This template has a **contact-us** form built right in. All you nee
 draft: false
 formspree_form_id: id-from-formspree
 layout: split-right
-name: Contact Us Form
+name: Book Lucy to give a talk
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message

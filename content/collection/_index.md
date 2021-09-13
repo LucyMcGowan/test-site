@@ -17,7 +17,7 @@ description: "Sometimes you want a souped-up series- a bundle of related pages \
 layout: list-sidebar
 show_author_byline: false
 show_post_date: false
-show_post_thumbnail: true
+show_post_thumbnail: false
 subtitle: A collection, minus the blog.
 thumbnail_left: false
 title: Create a Collection
