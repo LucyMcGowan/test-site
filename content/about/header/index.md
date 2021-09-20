@@ -3,7 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hi, my name is Lucy D'Agostino McGowan. These days I like to discuss
+footline: over coffee
 ---
 
 <!-- this is a subheadline -->
